@@ -15,10 +15,18 @@
         <entry key="Collapse" value="NOT_PASSED" />
         <entry key="Comment Line" value="NOT_PASSED" />
         <entry key="Completion with Tab" value="NOT_PASSED" />
+        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
+        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
+        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
+        <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
         <entry key="Duplicate" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
         <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
         <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
+        <entry key="EditorBasics.Move" value="NOT_PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="File structure" value="NOT_PASSED" />
         <entry key="Hippie Completion" value="NOT_PASSED" />
