@@ -64,15 +64,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/projects/idps/idps-backend/idps-task-management/src/main/java/com/csg/taskmanagement/controller/TestSysUserController.java" timestamp="1617708233687" />
+      <file name="/Dummy.txt" timestamp="1619341529952">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619342587558">
+        <mark key="'" line="113" column="25" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="174" column="0" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="114" column="24" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="119" column="25" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="120" column="24" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="107" column="25" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="108" column="24" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+      <jump line="113" column="25" filename="D:/projects/idps/idps-backend-city/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>http://</text>
+      </register>
+      <register name="-" type="4">
+        <text>http://</text>
+      </register>
+      <register name="/" type="4">
+        <text>aspose</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>aspose</last-search>
+      <last-offset />
+      <last-pattern>aspose</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>aspose</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
