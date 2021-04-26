@@ -69,7 +69,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619342587558">
+      <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619423069685">
         <mark key="'" line="113" column="25" />
       </file>
     </filemarks>
@@ -85,6 +85,9 @@
     <registers>
       <register name="&quot;" type="4">
         <text>http://</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>http://</text>
@@ -104,13 +107,18 @@
       <history-search>
         <entry>aspose</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
