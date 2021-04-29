@@ -69,6 +69,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/application.yml" timestamp="1619677426700">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619423069685">
         <mark key="'" line="113" column="25" />
       </file>
@@ -84,13 +90,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text>123456</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>123456</text>
       </register>
       <register name="/" type="4">
         <text>aspose</text>
