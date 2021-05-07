@@ -69,7 +69,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/java/com/csg/taskmanagement/controller/TaskManagementEquipmentDeliveryController.java" timestamp="1619685254277" />
       <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/application.yml" timestamp="1619677426700">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="14" />
@@ -126,6 +125,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
