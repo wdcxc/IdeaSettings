@@ -75,7 +75,11 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/java/com/csg/taskmanagement/dto/EquipmentDeliverySearchCondition.java" timestamp="1620377518456" />
+      <file name="D:/projects/idps/idps-backend-city/.gitignore" timestamp="1620445320207">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619423069685">
         <mark key="'" line="113" column="25" />
       </file>
@@ -90,14 +94,17 @@
       <jump line="113" column="25" filename="D:/projects/idps/idps-backend-city/pom.xml" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">YXBwbGljYXRpb25fc2MueW1sCg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>123456</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>aspose</text>
