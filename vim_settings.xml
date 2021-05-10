@@ -80,6 +80,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620614846998">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619423069685">
         <mark key="'" line="113" column="25" />
       </file>
@@ -100,14 +105,14 @@
       <register name="1" type="2">
         <text encoding="base64">IyBhcHBsaWNhdGlvbi55bWwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBhcHBsaWNhdGlvbi55bWwK</text>
+      <register name="&quot;" type="4">
+        <text>10.122.166.14</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>10.122.166.14</text>
       </register>
       <register name="/" type="4">
         <text>aspose</text>
