@@ -75,12 +75,19 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
+      <file name="D:/projects/idps/idps-backend/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620629005756">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
+      <file name="D:/projects/idps/idps-backend/idps-task-management/src/main/java/com/csg/taskmanagement/service/impl/TaskManagementEquipmentDeliveryServiceImpl.java" timestamp="1620629344078" />
       <file name="D:/projects/idps/idps-backend-city/.gitignore" timestamp="1620609677884">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620614846998">
+      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620628736648">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
@@ -100,7 +107,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbGljYXRpb25fc2MueW1sCg==</text>
+        <text encoding="base64">IyAgICAgICAgc2VydmVyLWFkZHI6IDEwLjEyMi4xNjYuMTQ6ODg0OAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBhcHBsaWNhdGlvbi55bWwK</text>
