@@ -87,10 +87,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620628736648">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="D:/projects/idps/idps-backend-city/idps-task-management/src/main/resources/bootstrap.yml" timestamp="1620701641371">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/projects/idps/idps-backend-city/pom.xml" timestamp="1619423069685">
         <mark key="'" line="113" column="25" />
@@ -110,10 +110,28 @@
         <text encoding="base64">IyAgICAgICAgc2VydmVyLWFkZHI6IDEwLjEyMi4xNjYuMTQ6ODg0OAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBhcHBsaWNhdGlvbi55bWwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBiNGRjYWY3ZDRkYTUxYjdlYjEwNzU2MDcyMDM4MDVkOWUzZDkwN2QzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>10.122.166.14</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiNGRjYWY3ZDRkYTUxYjdlYjEwNzU2MDcyMDM4MDVkOWUzZDkwN2QzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiNGRjYWY3ZDRkYTUxYjdlYjEwNzU2MDcyMDM4MDVkOWUzZDkwN2QzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBhcHBsaWNhdGlvbi55bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
