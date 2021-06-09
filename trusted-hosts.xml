@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Hosts.Settings">
+    <option name="TRUSTED_HOSTS">
+      <list>
+        <option value="gitlab-ee-gitlab.apps.paas.xxkj.gd.csg" />
+      </list>
+    </option>
+  </component>
+</application>
