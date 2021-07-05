@@ -14,7 +14,6 @@
     <option name="beans">
       <list>
         <SonarServerConfig>
-          <option name="anonymous" value="true" />
           <option name="hostUrl" value="http://localhost:9000" />
           <option name="name" value="sonarqube" />
           <option name="organization" value="" />

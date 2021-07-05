@@ -1,0 +1,19 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="sonarqube">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="ibms" />
+                <option name="name" value="ibms" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
