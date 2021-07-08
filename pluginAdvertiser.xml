@@ -2370,6 +2370,11 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
+                  <entry key="com.diffblue.cover.write-tests-run-configuration">
+                    <value>
+                      <FeaturePluginData displayName="Diffblue Cover" pluginName="Diffblue Cover Community Edition - Unit Test Generator" pluginId="com.diffblue.intellij.cover.plugin" />
+                    </value>
+                  </entry>
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
