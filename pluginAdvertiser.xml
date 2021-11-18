@@ -2,6 +2,14 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*.7z">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.camork.fileExpander" />
+              <option name="myPluginName" value="File Expander" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.9.png">
           <value>
             <plugin>
@@ -362,6 +370,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.epc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.camork.fileExpander" />
+              <option name="myPluginName" value="File Expander" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.es">
           <value>
             <plugin>
@@ -530,6 +546,14 @@
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gz">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.camork.fileExpander" />
+              <option name="myPluginName" value="File Expander" />
             </plugin>
           </value>
         </entry>
@@ -1406,12 +1430,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.camork.fileExpander" />
+              <option name="myPluginName" value="File Expander" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tgz">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.camork.fileExpander" />
+              <option name="myPluginName" value="File Expander" />
             </plugin>
           </value>
         </entry>
