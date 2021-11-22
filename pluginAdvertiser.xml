@@ -136,6 +136,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bpmn20.xml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="flowable-bpmn-visualizer" />
+              <option name="myPluginName" value="Flowable BPMN visualizer" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -2412,7 +2420,7 @@
                   </entry>
                   <entry key="com.diffblue.cover.write-tests-run-configuration">
                     <value>
-                      <FeaturePluginData displayName="Diffblue Cover" pluginName="Diffblue Cover Community Edition - Unit Test Generator" pluginId="com.diffblue.intellij.cover.plugin" />
+                      <FeaturePluginData displayName="Diffblue Cover" pluginName="Diffblue Cover Community Edition" pluginId="com.diffblue.intellij.cover.plugin" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
