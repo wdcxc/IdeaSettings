@@ -1411,6 +1411,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tabnine,.tabnine,tabnine.model,.tabnine.model,model,.model">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.tabnine.TabNine" />
+              <option name="myPluginName" value="Tabnine AI Code Completion- JS Java Python TS Rust Go PHP &amp; More" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tabnineignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.tabnine.TabNine" />
+              <option name="myPluginName" value="Tabnine AI Code Completion- JS Java Python TS Rust Go PHP &amp; More" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tag">
           <value>
             <plugin>
