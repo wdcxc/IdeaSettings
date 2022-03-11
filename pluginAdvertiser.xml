@@ -2481,7 +2481,7 @@
                   </entry>
                   <entry key="JRebel">
                     <value>
-                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel for IntelliJ" pluginId="JRebelPlugin" />
+                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel" pluginId="JRebelPlugin" />
                     </value>
                   </entry>
                   <entry key="Spring">
