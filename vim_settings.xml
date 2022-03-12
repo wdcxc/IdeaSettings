@@ -40,70 +40,76 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIENMT1NFX0JSQUNLRVQ=</text>
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFk=</text>
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/form/OrderForm.java" timestamp="1560253685284">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+      </file>
+      <file name="F:/IdeaProjects/wcrestaurant/pom.xml" timestamp="1560254541424">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+      </file>
       <file name="F:/IdeaProjects/wcrestaurant/src/main/resources/application.yml" timestamp="1560261373224">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="7" column="18" />
@@ -111,30 +117,8 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/converter/OrderMaster2OrderDTOConverter.java" timestamp="1560220681240">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="18" column="89" />
-        <mark key="." line="18" column="89" />
-        <mark key="^" line="18" column="89" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/exception/SellException.java" timestamp="1560254353888">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/impl/BuyerServiceImpl.java" timestamp="1560265450194">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="14" />
-        <mark key="." line="25" column="14" />
-        <mark key="^" line="25" column="14" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/controller/BuyerOrderController.java" timestamp="1560265222659">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="72" column="94" />
-        <mark key="]" line="73" column="48" />
-        <mark key="^" line="73" column="48" />
-        <mark key="." line="73" column="48" />
+      <file name="qaplug_profiles/Default.xml" timestamp="1647049054462">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1603637245976">
         <mark key="[" line="13" column="2" />
@@ -154,36 +138,30 @@
         <mark key="." line="6" column="57" />
         <mark key="^" line="6" column="57" />
       </file>
+      <file name="F:/IdeaProjects/wcrestaurant/src/test/java/com/cxc/wcrestaurant/service/impl/OrderServiceImplTest.java" timestamp="1560225052701">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/exception/SellException.java" timestamp="1560254353888">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/impl/BuyerServiceImpl.java" timestamp="1560265450194">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
+      </file>
       <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/impl/ProductInfoServiceImpl.java" timestamp="1560225078992">
         <mark key="'" line="51" column="17" />
         <mark key="[" line="50" column="13" />
         <mark key="]" line="51" column="17" />
         <mark key="." line="51" column="17" />
         <mark key="^" line="51" column="17" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/dto/OrderDTO.java" timestamp="1560261081749">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/form/OrderForm.java" timestamp="1560253685284">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/pom.xml" timestamp="1560254541424">
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="40" />
-      </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/test/java/com/cxc/wcrestaurant/service/impl/OrderServiceImplTest.java" timestamp="1560225052701">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/enums/ResultEnum.java" timestamp="1560264103138">
         <mark key="'" line="6" column="0" />
@@ -192,16 +170,21 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/impl/OrderServiceImpl.java" timestamp="1560264389773">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/utils/serializer/Date2LongSerializer.java" timestamp="1560260312550">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
+      </file>
+      <file name="qaPlugPluginUpdateNotifier.xml" timestamp="1647049172406">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/controller/BuyerOrderController.java" timestamp="1560265222659">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="72" column="94" />
+        <mark key="]" line="73" column="48" />
+        <mark key="^" line="73" column="48" />
+        <mark key="." line="73" column="48" />
       </file>
       <file name="F:/IdeaProjects/wcrestaurant/doc/API.md" timestamp="1560263237642">
         <mark key="'" line="0" column="0" />
@@ -209,12 +192,10 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/ProductInfoService.java" timestamp="1560222574327">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="20" column="0" />
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/service/impl/OrderServiceImpl.java" timestamp="1560264389773">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="F:/IdeaProjects/wcrestaurant/src/main/resources/logback-spring.xml" timestamp="1560224307115">
         <mark key="'" line="0" column="20" />
@@ -227,6 +208,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="F:/IdeaProjects/wcrestaurant/src/main/java/com/cxc/wcrestaurant/dto/OrderDTO.java" timestamp="1560261081749">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -4921,9 +4908,9 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="true" />
+      <idea-join enabled="false" />
       <idea-put enabled="false" />
     </notifications>
   </component>
