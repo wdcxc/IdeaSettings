@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sorm'" />
-    <option name="defaultScopeName" value="Project 'sorm'" />
-    <option name="SEARCH_SCOPE" value="Project 'sorm'" />
+    <option name="customScope" value="Module 'ibms-common'" />
+    <option name="defaultScopeName" value="Module 'ibms-common'" />
+    <option name="SEARCH_SCOPE" value="Module 'ibms-common'" />
   </component>
 </application>
